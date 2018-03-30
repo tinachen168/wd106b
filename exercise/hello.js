@@ -1,8 +1,9 @@
-f = 1;
+a = 1;
 i = 1;
 while (i<=10) 
 {
-    f = f * i;
+    a = a * i;
     i = i + 1;
 }
-console.log('10!=', f);
+console.log('10!=', a);
+
